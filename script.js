@@ -7,7 +7,7 @@ const products = [
         id: 1,
         name: "Wireless Earbuds",
         category: "electronics",
-        price: 4999,
+        price: 349900,  // KSh 3,499
         image: "images/earbuds.jpg",
         description: "High-quality sound with noise cancellation"
     },
@@ -15,7 +15,7 @@ const products = [
         id: 2,
         name: "USB-C Cable",
         category: "accessories",
-        price: 899,
+        price: 89900,  // KSh 899
         image: "images/cable.jpg",
         description: "Fast charging and data transfer cable"
     },
@@ -23,7 +23,7 @@ const products = [
         id: 3,
         name: "Laptop Stand",
         category: "accessories",
-        price: 2499,
+        price: 299900,  // KSh 2,999
         image: "images/stand.jpg",
         description: "Ergonomic aluminum stand for better posture"
     },
@@ -31,7 +31,7 @@ const products = [
         id: 4,
         name: "Wireless Mouse",
         category: "electronics",
-        price: 1999,
+        price: 179900,  // KSh 1,799
         image: "images/mouse.jpg",
         description: "Precision tracking with long battery life"
     },
@@ -39,7 +39,7 @@ const products = [
         id: 5,
         name: "Mechanical Keyboard",
         category: "electronics",
-        price: 5999,
+        price: 749900,  // KSh 7,499
         image: "images/keyboard.jpg",
         description: "RGB backlit with customizable switches"
     },
@@ -47,7 +47,7 @@ const products = [
         id: 6,
         name: "Screen Protector",
         category: "accessories",
-        price: 599,
+        price: 59900,  // KSh 599
         image: "images/protector.jpg",
         description: "Tempered glass protection for your screen"
     },
@@ -55,7 +55,7 @@ const products = [
         id: 7,
         name: "Antivirus Software",
         category: "software",
-        price: 1499,
+        price: 149900,  // KSh 1,499
         image: "images/antivirus.jpg",
         description: "Advanced protection against malware and threats"
     },
@@ -63,7 +63,7 @@ const products = [
         id: 8,
         name: "VPN Service",
         category: "software",
-        price: 2999,
+        price: 299900,  // KSh 2,999
         image: "images/vpn.jpg",
         description: "Secure browsing with encrypted connection"
     }
